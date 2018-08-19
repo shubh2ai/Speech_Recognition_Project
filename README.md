@@ -1,0 +1,2 @@
+Speech recognition is the ability of a machine or program to identify words and phrases in spoken language and convert them to a machine-readable format.
+Speech recognition, the ability of devices to respond to spoken commands. Speech recognition enables hands-free control of various devices and equipment.
